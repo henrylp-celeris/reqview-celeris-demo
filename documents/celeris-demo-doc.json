@@ -1,0 +1,72 @@
+{
+  "id": "celeris-demo-doc",
+  "guid": "5dbeaf29-3975-4a5a-8eef-0bb46aa37a5b",
+  "lastId": 1,
+  "createdOn": "2026-02-14T10:50:07.598Z",
+  "createdBy": {
+    "name": "Henry Luong",
+    "email": "henry.luong@celerisconsulting.com",
+    "company": "Celeris AB"
+  },
+  "lastChangedOn": "2026-02-14T13:09:05.041Z",
+  "lastChangedBy": {
+    "name": "Henry Luong",
+    "email": "henry.luong@celerisconsulting.com",
+    "company": "Celeris AB"
+  },
+  "data": [
+    {
+      "id": "1",
+      "guid": "510e0085-e392-4ca0-927e-932cf57864f7",
+      "heading": "Test Header",
+      "text": "<p>Lorum Ipsum</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Celeris AB",
+            "email": "henry.luong@celerisconsulting.com",
+            "name": "Henry Luong"
+          },
+          "changedOn": "2026-02-14T10:50:08.388Z",
+          "docId": "celeris-demo-doc",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "text": null
+          },
+          "changedBy": {
+            "company": "Celeris AB",
+            "email": "henry.luong@celerisconsulting.com",
+            "name": "Henry Luong"
+          },
+          "changedOn": "2026-02-14T13:09:05.041Z"
+        }
+      ]
+    }
+  ],
+  "attributes": {
+  },
+  "templateColumns": {
+  },
+  "views": {
+    "Primary": {
+      "columns": [
+        {
+          "columnId": "id",
+          "width": 65
+        },
+        {
+          "columnId": "description",
+          "width": 500
+        }
+      ],
+      "default": true
+    }
+  },
+  "metadata": {
+    "format": "2.20"
+  }
+}

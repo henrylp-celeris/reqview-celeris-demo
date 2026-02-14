@@ -1,0 +1,17 @@
+{
+  "id": "celeris-demoasd",
+  "documents": [
+    "celeris-demo-doc.json"
+  ],
+  "traceability": {
+    "reference": {
+      "name": "Reference",
+      "source": "References",
+      "target": "Referenced by"
+    }
+  },
+  "metadata": {
+    "format": "2.20",
+    "saveHistory": true
+  }
+}
