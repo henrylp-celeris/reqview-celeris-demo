@@ -8,7 +8,7 @@
     "email": "henry.luong@celerisconsulting.com",
     "company": "Celeris AB"
   },
-  "lastChangedOn": "2026-02-16T15:49:24.505Z",
+  "lastChangedOn": "2026-02-17T18:44:35.280Z",
   "lastChangedBy": {
     "name": "Henry Luong",
     "email": "henry.luong@celerisconsulting.com",
@@ -18,7 +18,7 @@
     {
       "id": "1",
       "guid": "510e0085-e392-4ca0-927e-932cf57864f7",
-      "heading": "Test Header 1",
+      "heading": "Test Header 2",
       "text": "<p>Lorum Ipsum</p>",
       "history": [
         {
@@ -54,6 +54,17 @@
             "name": "Henry Luong"
           },
           "changedOn": "2026-02-16T15:49:24.505Z"
+        },
+        {
+          "attributesChanged": {
+            "heading": "Test Header 1"
+          },
+          "changedBy": {
+            "company": "Celeris AB",
+            "email": "henry.luong@celerisconsulting.com",
+            "name": "Henry Luong"
+          },
+          "changedOn": "2026-02-17T18:44:35.280Z"
         }
       ]
     }
